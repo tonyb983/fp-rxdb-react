@@ -7,9 +7,18 @@
     "@types/node": "12.7.3",
     "@types/react": "16.9.2",
     "@types/react-dom": "16.9.0",
+    "babel-plugin-macros": "^2.6.1",
+    "fp-ts": "^2.0.5",
+    "ix": "^2.5.3",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1",
+    "rxdb": "^8.4.0",
+    "rxjs": "^6.5.2",
+    "scope.macro": "^1.0.0",
+    "styled-components": "^4.3.2",
+    "styled-import": "^0.3.5",
+    "tailwind.macro": "^0.5.10",
     "typescript": "3.6.2"
   },
   "scripts": {
@@ -32,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "author": "Tony B <tonyb983@gmail.com>",
+  "license": "MIT"
 }
